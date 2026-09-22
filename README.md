@@ -38,6 +38,16 @@ https://zoom-clone-frontend-e0pl.onrender.com
 - MongoDB
 - Mongoose
 
+## Screenshots
+
+### Home Page
+
+![Zoom Clone Home Page](./Screenshot%202026-09-22%20170921.png)
+
+### Sign In / Sign Up
+
+![Zoom Clone Authentication](./Screenshot%202026-09-22%20170940.png)
+
 ## How It Works
 
 The React frontend handles the meeting interface and user interactions.
@@ -54,23 +64,8 @@ The Node.js and Express backend manages application requests and communicates wi
 - Used Socket.IO for real-time communication
 - Added meeting creation and joining functionality
 
-## GitHub Repository
-
-https://github.com/Zaid-Shabab/Zoom-Clone
-
 ## Author
 
 **Zaid Shabab**
 
 GitHub: https://github.com/Zaid-Shabab
-
-
-## Screenshots
-
-### Home Page
-
-![Zoom Clone Home Page](./Screenshot%202026-09-22%20170921.png)
-
-### Sign In / Sign Up
-
-![Zoom Clone Authentication](./Screenshot%202026-09-22%20170940.png)
