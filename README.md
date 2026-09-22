@@ -63,3 +63,14 @@ https://github.com/Zaid-Shabab/Zoom-Clone
 **Zaid Shabab**
 
 GitHub: https://github.com/Zaid-Shabab
+
+
+## Screenshots
+
+### Home Page
+
+![Zoom Clone Home Page](./Screenshot%202026-09-22%20170921.png)
+
+### Sign In / Sign Up
+
+![Zoom Clone Authentication](./Screenshot%202026-09-22%20170940.png)
