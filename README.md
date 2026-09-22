@@ -1,28 +1,27 @@
 # Zoom Clone
 
-A full-stack video conferencing application inspired by Zoom, built using React, Node.js, Socket.IO, WebRTC, and MongoDB.
+A full-stack video conferencing application inspired by Zoom, built with React, Node.js, Express, Socket.IO, WebRTC, and MongoDB.
 
-## 🚀 Live Demo
+The project allows users to create and join meetings with real-time video, audio, and screen sharing through a web-based interface.
 
-[Open Zoom Clone](https://zoom-clone-frontend-e0pl.onrender.com)
+## Live Demo
 
-## 📂 GitHub Repository
+https://zoom-clone-frontend-e0pl.onrender.com
 
-https://github.com/Zaid-Shabab/Zoom-Clone
+## Features
 
-## ✨ Features
+- Real-time video calling
+- Audio and microphone support
+- Screen sharing
+- Real-time communication
+- User authentication
+- Create and join meetings
+- MongoDB database integration
 
-- 🎥 Real-time video calling
-- 🎤 Audio / microphone support
-- 🖥️ Screen sharing
-- 💬 Real-time communication
-- 👤 User authentication
-- 🔗 Create and join meetings
-- 💾 MongoDB database integration
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
+
 - React
 - Vite
 - Material UI
@@ -32,16 +31,35 @@ https://github.com/Zaid-Shabab/Zoom-Clone
 - React Router
 
 ### Backend
+
 - Node.js
 - Express.js
 - Socket.IO
 - MongoDB
 - Mongoose
 
-## ⚙️ Run Locally
+## How It Works
 
-### Clone the repository
+The React frontend handles the meeting interface and user interactions.
 
-```bash
-git clone https://github.com/Zaid-Shabab/Zoom-Clone.git
-cd Zoom-Clone
+WebRTC is used for real-time audio and video communication, while Socket.IO handles real-time communication between connected users.
+
+The Node.js and Express backend manages application requests and communicates with MongoDB for storing application data.
+
+## Project Highlights
+
+- Built a real-time video conferencing interface
+- Implemented browser-based audio and video communication using WebRTC
+- Added screen sharing functionality
+- Used Socket.IO for real-time communication
+- Added meeting creation and joining functionality
+
+## GitHub Repository
+
+https://github.com/Zaid-Shabab/Zoom-Clone
+
+## Author
+
+**Zaid Shabab**
+
+GitHub: https://github.com/Zaid-Shabab
